@@ -62,7 +62,9 @@ The analysis is based on two main tables:
 
 ## Dashboard
 
-The Tableau dashboard includes:
+[dashboard link](https://public.tableau.com/app/profile/aleyna.rapata/viz/RevenueUserDynamicsDashboard_17746562233280/Dashboard1?publish=yes)
+
+The Tableau dashboard includes: 
 
 - KPI overview (MRR, Paid Users, ARPPU, Churn Rate, LTV, LT)
 - Revenue decomposition (Revenue Factors)
